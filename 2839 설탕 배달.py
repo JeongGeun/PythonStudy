@@ -1,3 +1,6 @@
+
+
+
 num =int(input())
 dp=[1e9]*5001
 arr=[3,5]
